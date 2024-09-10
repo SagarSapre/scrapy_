@@ -12,7 +12,7 @@ class FirstPipeline:
     def __init__(self):
     ## Connection Details
         hostname = 'localhost'
-        port=5433
+        port=5432 #5432 for lap 5433 for pc
         username = 'postgres'
         password = '12345678' # your password
         database = 'books'
