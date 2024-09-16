@@ -1,0 +1,6 @@
+save all webscraping projects here under different project name 
+
+
+start a new project with following command
+
+scrapy startproject <project_name>
